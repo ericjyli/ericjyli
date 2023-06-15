@@ -1,4 +1,9 @@
 ### 
+- 👨 I'm Junyu Li
+- 📖 I'm currently studying at University of Toronto
+- 🌱 My major is Computer Engineering
+- 📫 How to reach me: ericli.jy@outlook.com
+- 😄 Pronouns: He/Him
 
 <!--
 **ericjyli/ericjyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
