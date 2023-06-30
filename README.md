@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/Him
 
 
-![Anurag's GitHub stats](https://jy-github-readme.vercel.app/api?username=ericjyli&theme=tokyonight&show_icons=true&count-private=true)
-[![Top Langs](https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count-private=true)](https://github.com/ericjyli/github-readme-stats)
+![Anurag's GitHub stats](https://jy-github-readme.vercel.app/api?username=ericjyli&theme=tokyonight&show_icons=true&count_private=true)
+[![Top Langs](https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true)](https://github.com/ericjyli/github-readme-stats)
 
 
 <!--
