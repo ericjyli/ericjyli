@@ -5,9 +5,9 @@
 - 📫 How to reach me: ericli.jy@outlook.com
 - 😄 Pronouns: He/Him
 
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericjyli&theme=shadow_blue&show_icons=true)
--->
+
 
 <!--
 **ericjyli/ericjyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
