@@ -5,9 +5,10 @@
 - 📫 How to reach me: ericli.jy@outlook.com
 - 😄 Pronouns: He/Him
 
-
-![Anurag's GitHub stats](https://jy-github-readme.vercel.app/api?username=ericjyli&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true)
-![Top Langs](https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact)
+<p align="left">  
+  <img height="200em" src="https://jy-github-readme.vercel.app/api?username=ericjyli&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true" />
+  <img height="200em" src="https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
+</p>
 
 <!--
 (https://github.com/ericjyli/github-readme-stats)
