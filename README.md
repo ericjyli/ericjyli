@@ -10,7 +10,7 @@
   <img height="180em" src="https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
 </p>
 
-[![Harlok's wakatime stats](https://jy-github-readme.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight)]
+![Harlok's wakatime stats](https://jy-github-readme.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight)
 
 
 
