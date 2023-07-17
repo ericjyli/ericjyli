@@ -10,12 +10,16 @@
   <img height="180em" src="https://jy-github-readme.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
 </p>
 
+<img
+  src="https://github.com/ericjyli/ericjyli/blob/main/images/stat.svg"
+  alt="Ericjyli WakaTime Activity"
+/>
+
 <!--
 (https://github.com/ericjyli/github-readme-stats)
 -->
 
 <!--
-**ericjyli/ericjyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
