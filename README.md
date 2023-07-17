@@ -11,10 +11,6 @@
 </p>
 
 
-<img
-  src="https://github.com/ericjyli/ericjyli/blob/main/images/stat.svg"
-  alt="Ericjyli WakaTime Activity"
-/>
 
 <!--
 (https://github.com/ericjyli/github-readme-stats)
