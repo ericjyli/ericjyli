@@ -13,7 +13,7 @@
 -->
 </p>
 
-<img height="300em" src="https://jy-github-readme.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
+<img height="300em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
 
 
