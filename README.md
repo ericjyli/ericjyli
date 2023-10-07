@@ -35,7 +35,7 @@ Mac                      4 hrs 57 mins       █████░░░░░░�
  Last Updated on 07/10/2023 04:56:34 UTC
 <!--END_SECTION:waka-->
 
-<img height="400em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
+<img height="400em" width="80%" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
 <!--
 Here are some ideas to get you started:
