@@ -11,6 +11,28 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%204%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        21 hrs 56 mins      ████████████████████░░░░░   81.08 % 
+C++                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+🔥 Editors: 
+VS Code                  27 hrs 3 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    22 hrs 5 mins       ████████████████████░░░░░   81.64 % 
+Mac                      4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+```
+
+
+ Last Updated on 07/10/2023 04:51:23 UTC
 <!--END_SECTION:waka-->
 
 <img height="300em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
