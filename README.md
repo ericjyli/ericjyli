@@ -10,6 +10,10 @@
   <img height="180em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
 </p>
 
+<img
+  src="https://github.com/ericjyli/ericjyli/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 <img height="300em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
