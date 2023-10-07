@@ -16,7 +16,6 @@
 <img height="300em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
