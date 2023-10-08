@@ -56,6 +56,7 @@ Mac                      4 hrs 57 mins       █████░░░░░░�
  Last Updated on 08/10/2023 01:25:05 UTC
 <!--END_SECTION:waka-->
 
+During my last year:
 <img height="400em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
 <!--
