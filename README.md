@@ -5,7 +5,6 @@
 - 📫 How to reach me: ericli.jy@outlook.com
 - 😄 Pronouns: He/Him
 
-https://github-readme-stats-sigma-five-48.vercel.app/
 <p align="left">  
   <img height="180em" src="https://github-readme-stats-sigma-five-48.vercel.app/api?username=ericjyli&theme=tokyonight&show_icons=true&count_private=true&include_orgs=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five-48.vercel.app/api/top-langs/?username=ericjyli&theme=tokyonight&count_private=true&include_orgs=true&include_orgs=true&layout=compact" />
