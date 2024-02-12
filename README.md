@@ -56,7 +56,7 @@ Linux                    2 hrs 32 mins       ███████████�
  Last Updated on 11/02/2024 20:17:14 UTC
 <!--END_SECTION:waka-->
 
-<p> During my last year: </p>
+<p> Things I've spent time on during my last year: </p>
 <img height="400em" src="https://github-readme-stats-git-master-ericjyli.vercel.app/api/wakatime?username=ericjyli&layout=compact&theme=tokyonight" />
 
 <!--
