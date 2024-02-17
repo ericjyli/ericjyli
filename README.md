@@ -50,7 +50,7 @@ Mac                      50 mins             ███████████�
 ```
 
 
- Last Updated on 16/02/2024 20:16:58 UTC
+ Last Updated on 17/02/2024 20:16:20 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
