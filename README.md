@@ -11,6 +11,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2014%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -36,18 +38,17 @@ Sunday                   333 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ██████████████░░░░░░░░░░░   57.50 % 
-C++                      14 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2024 23:24:53 UTC
+ Last Updated on 15/04/2024 20:17:54 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
