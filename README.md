@@ -11,7 +11,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2027%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,7 +48,7 @@ Mac                      9 mins              ███████████�
 ```
 
 
- Last Updated on 21/05/2024 20:19:46 UTC
+ Last Updated on 22/05/2024 20:19:32 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
