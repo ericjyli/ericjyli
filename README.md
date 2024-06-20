@@ -38,17 +38,17 @@ Sunday                   334 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/06/2024 20:18:51 UTC
+ Last Updated on 20/06/2024 20:19:22 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
