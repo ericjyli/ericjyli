@@ -38,20 +38,17 @@ Sunday                   343 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      45 mins             █████████████████░░░░░░░░   66.55 % 
-TypeScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-V                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/09/2024 20:20:23 UTC
+ Last Updated on 22/09/2024 20:20:50 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
