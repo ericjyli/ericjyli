@@ -1,6 +1,7 @@
 ### 
 - 👨 I'm Junyu Li
 - 📖 I'm currently studying at University of Toronto
+- 🧑‍💻 I'm working as a hardware engineering intern at Qualcomm
 - 🌱 My major is Electrical and Computer Engineering
 - 📫 How to reach me: ericli.jy@outlook.com
 - 😄 Pronouns: He/Him
