@@ -12,6 +12,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2010%20mins-blue)
+
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -51,7 +53,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 20:22:48 UTC
+ Last Updated on 23/10/2024 20:24:30 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
