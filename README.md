@@ -12,20 +12,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%209%20mins-blue)
-
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Wednesday                246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Thursday                 359 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 351 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   410 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2033%20mins-blue)
 
 **I Mostly Code in C** 
 
@@ -40,7 +27,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 20:24:32 UTC
+ Last Updated on 20/09/2025 20:21:56 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
