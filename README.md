@@ -11,35 +11,35 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2057%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Wednesday                344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Monday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Wednesday                344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 Friday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sunday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Saturday                 407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Sunday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 ```
 
 
 **I Mostly Code in C** 
 
 ```text
-C                        6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 C++                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 16/03/2026 20:44:52 UTC
+ Last Updated on 17/03/2026 20:47:47 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
