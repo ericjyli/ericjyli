@@ -16,30 +16,30 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Thursday                 437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Saturday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   501 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Monday                   437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Tuesday                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Thursday                 437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Sunday                   501 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
 
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-C++                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+C++                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 01/05/2026 20:58:46 UTC
+ Last Updated on 02/05/2026 20:51:17 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
