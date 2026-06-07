@@ -11,8 +11,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2047%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -39,7 +37,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 21:09:59 UTC
+ Last Updated on 07/06/2026 21:18:51 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
