@@ -11,27 +11,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2015%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  421 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Thursday                 442 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Friday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Saturday                 431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Sunday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -45,7 +24,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 21:17:35 UTC
+ Last Updated on 07/08/2026 00:54:29 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
