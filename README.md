@@ -18,37 +18,36 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   512 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Friday                   399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 458 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Sunday                   602 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Monday                   537 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Tuesday                  494 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Thursday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Saturday                 470 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Sunday                   625 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (96.65%)
+⏱ AI Coding Time: 50 mins (91.21%)
 
-✍️ 10,346 lines written by AI, 3 lines written by hand (99.97% AI-written)
+✍️ 326 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,204,401 Input Tokens, 633,892 Output Tokens
+🔤 178,656 Input Tokens, 69,984 Output Tokens
 
-💵 $43.14 Estimated AI Cost This Week
+💵 $6.55 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 42 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
-Opus                     10,413 lines        █████████████████████████   99.52 % 
-Haiku                    50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Opus                     326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 890 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -64,7 +63,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 22:24:26 UTC
+ Last Updated on 26/10/2026 23:40:41 UTC
 <!--END_SECTION:waka-->
 
 <p> Things I've spent time on during my last year: </p>
